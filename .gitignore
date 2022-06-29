@@ -1,0 +1,6 @@
+**/user*/*/*
+env/
+.env
+__pycache__/
+*.py[cod]
+*$py.class
